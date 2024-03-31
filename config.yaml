@@ -1,0 +1,8 @@
+text_splitter_config: 
+  chunk_size: 400
+  chunk_overlap: 100
+
+chat_session_path: "./chat_sessions"
+
+chromadb:
+  path: "./chroma_db"

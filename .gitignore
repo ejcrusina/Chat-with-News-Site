@@ -1,0 +1,11 @@
+# Env variables
+.env
+
+# Virtual env
+venv/*
+
+# Vectordb 
+chroma_db/*
+
+# Chat history jsons
+chat_sessions/*
