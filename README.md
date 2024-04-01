@@ -13,7 +13,7 @@ This project creates a chatbot that can answer questions related to the content 
 
 ## Installations
 
-- Clone the repository by 
+- Clone the repository by ```git clone https://github.com/ejcrusina/Chat-with-Website.git```
 - Install [Python 3.11](https://www.python.org/downloads/release/python-3113/)
 - ```Makefile``` can be used on the go in Linux/Mac OS. However, in Windows, you may need to install a package manager like [WinGet](https://learn.microsoft.com/en-us/windows/package-manager/winget/install) before using it.
 
